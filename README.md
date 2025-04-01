@@ -65,7 +65,7 @@ Lists the project dependencies:
 ## Example Output
 
 <div align="center">
-  <img src="/images/Screenshot 2025-04-01 154111.png">
+  <img src="Screenshot 2025-04-01 154111.png">
 </div>
 
 ## Features
